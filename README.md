@@ -1,24 +1,16 @@
-### Hi there 👋
+# github-profile-summary-cards-example
 
-<img src = "https://github-readme-stats.vercel.app/api?username=OlangJaq&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+:star: [Tutorial](https://github.com/vn7n24fzkq/github-profile-summary-cards/wiki/Toturial) ( Recommendation ) :star:
 
+Action already setup In this template, you just need click `use this template` button to create your repo and wait for workflow to finish.
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=OlangJaq&theme=tokyonight)](https://git.io/streak-stats)
+```To create your profile README you need to name the repo as your username```
 
-<img src = "https://visitor-badge.glitch.me/badge?page_id=OlangJaq.visitor-badge">
+| :bell: | Don't forget to modify the image (All of images are in `profile-summary-card-output` folder). |
+| :-------: | :-------------------------------------------------------------------------------------------------------- |
 
+[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/vue/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/vue/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/vue/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/vue/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/vue/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-<!--
-**OlangJaq/OlangJaq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[More Info](https://github.com/vn7n24fzkq/github-profile-summary-cards)
