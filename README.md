@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-| :bell: | Don't forget to modify the image (All of images are in `profile-summary-card-output` folder). |
+| :bell: | Don't forget to hit the follow button! |
 | :-------: | :-------------------------------------------------------------------------------------------------------- |
 
 <img src = "https://github-readme-stats.vercel.app/api?username=peter-evance&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
