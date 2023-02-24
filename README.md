@@ -5,7 +5,7 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=OlangJaq&theme=tokyonight)](https://git.io/streak-stats)
 
-<img src = "https://visitor-badge.glitch.me/badge?page_id=peter-evance.visitor-badge">
+<img src = "https://visitor-badge.glitch.me/badge?page_id=OlangJaq.visitor-badge">
 
 
 <!--
