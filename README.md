@@ -1,8 +1,11 @@
-# Hi there! 
-
+### Hi there 👋
 
 | :bell: | Don't forget to modify the image (All of images are in `profile-summary-card-output` folder). |
 | :-------: | :-------------------------------------------------------------------------------------------------------- |
+
+<img src = "https://github-readme-stats.vercel.app/api?username=peter-evance&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=peter-evance&theme=tokyonight)](https://git.io/streak-stats)
 
 [![](https://raw.githubusercontent.com/OlangJaq/github-profile-summary-cards-example/master/profile-summary-card-output/vue/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/OlangJaq/github-profile-summary-cards-example/master/profile-summary-card-output/vue/1-repos-per-language.svg)](https://github.com/OlangJaq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/OlangJaq/github-profile-summary-cards-example/master/profile-summary-card-output/vue/2-most-commit-language.svg)](https://github.com/OlangJaq/github-profile-summary-cards)
