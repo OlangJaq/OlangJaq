@@ -4,7 +4,7 @@
 
 <p align="center"> <img alt="Coding" width="400" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif"/> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=OlangJaq&row=1&theme=monokai" alt="OlangJaq" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=OlangJaq&row=1&theme=monokai" alt="princexz" /></a> </p>
 
 - 👀 I’m interested in Learning new Skills
 
