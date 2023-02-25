@@ -1,8 +1,8 @@
 [![MasterHead](https://visme.co/blog/wp-content/uploads/2019/10/animated-presentation-software-header.gif)]()
-<h1 align="center">Hi 👋, I'm <a href="https://princexz.github.io/me"> Prince!</a></h1>
-<h2 align="center">A Full-Stack Developer || Computer Software Engineer.</h2>
+<h1 align="center">Hi 👋, I'm <a href="https://OlangJaq.github.io/me"> Prince!</a></h1>
+<h2 align="center">A Data-Analysist || Computer Software Engineer.</h2>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Princexz&label=Profile%20views&color=0e75b6&style=flat" alt="kimjayden" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=OlangJaq&label=Profile%20views&color=0e75b6&style=flat" alt="kimjayden" /> </p>
 
 <p align="center"> <img alt="Coding" width="400" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif"/> </p>
 
@@ -14,7 +14,7 @@
 
 - 💬 Connect with, and ask me about anything <a href="https://www.twitter.com/angelprince_me">here!.</a>
 
-- 📫 How to reach me **Prince_solomon@yahoo.com**
+- 📫 How to reach me **olangjack@yahoo.com**
 
 - ⚡ Fun fact **I'm good with people**
 
