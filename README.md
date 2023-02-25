@@ -1,6 +1,6 @@
 [![MasterHead](https://visme.co/blog/wp-content/uploads/2019/10/animated-presentation-software-header.gif)]()
-<h1 align="center">Hi 👋, I'm <a href="https://OlangJaq.github.io/me"> Prince!</a></h1>
-<h2 align="center">A Data-Analysist || Computer Software Engineer.</h2>
+<h1 align="center">Hi 👋, I'm <a href="https://OlangJaq.github.io/me"> OlangJaq!</a></h1>
+<h2 align="center">A Building Engineer || Data-Analysist || Computer Software Engineer.</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=OlangJaq&label=Profile%20views&color=0e75b6&style=flat" alt="kimjayden" /> </p>
 
@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning Full Stack Software Engineer @ [ALX](https://www.alxafrica.com/).
 
-- 💬 Connect with, and ask me about anything <a href="https://www.twitter.com/angelprince_me">here!.</a>
+- 💬 Connect with, and ask me about anything <a href="https://www.twitter.com/Kolangjaq">here!.</a>
 
 - 📫 How to reach me **olangjack@yahoo.com**
 
