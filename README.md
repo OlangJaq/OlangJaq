@@ -2,8 +2,6 @@
 <h1 align="center">Hi there, I'm <a href="https://OlangJaq.github.io/me"> Olang!</a></h1>
 <h2 align="center">A Building Engineer || Data-Analysist || Computer Software Engineer.</h2>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=OlangJaq&label=Profile%20views&color=0e75b6&style=flat" alt="kimjayden" /> </p>
-
 <p align="center"> <img alt="Coding" width="400" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif"/> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=princexz&row=1&theme=monokai" alt="princexz" /></a> </p>
@@ -37,7 +35,7 @@ I'm currently focusing on becoming a good Full Satck Developer | Software Engine
 
 ## 📊 My Github Stats:
 
-<img src="https://github-readme-stats.vercel.app/api?username=OlangJaq&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />
+<img src="https://github-readme-stats.vercel.app/api?username=OlangJaq&show_icons=true&theme=radical" />
 
 <p align="left">
     <a href="https://github.com/OlangJaq/github-readme-streak-stats">
@@ -47,6 +45,7 @@ I'm currently focusing on becoming a good Full Satck Developer | Software Engine
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OlangJaq&layout=compact" />
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=OlangJaq&label=Profile%20views&color=0e75b6&style=flat" alt="kimjayden" /> </p>
 
 ## 🌍You Can Find Me On:
 <a href="https://www.github.com/OLangJaq">![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) </a>
