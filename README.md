@@ -43,19 +43,19 @@
 
 ## 📊 My Github Stats:
 
-<img src="https://github-readme-stats.vercel.app/api?username=Princexz&show_icons=true&theme=radical" />
+<img src="https://github-readme-stats.vercel.app/api?username=OlangJaq&show_icons=true&theme=radical" />
 
 <p align="left">
-    <a href="https://github.com/Princexz/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Prince Solomon's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Princexz&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    <a href="https://github.com/OlangJaq/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Jack Olang's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=OlangJaq&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=princexz&layout=compact" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OlangJaq&layout=compact" />
 
 
 ## 🌍You Can Find Me On:
-<a href="https://www.github.com/princexz">![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) </a>
+<a href="https://www.github.com/OLangJaq">![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) </a>
 <a href="https://www.twitter.com/angelprince_me">![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white) </a>
 <a href="https://www.LinkedIn.com/in/OlangJaq">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) </a>
 
