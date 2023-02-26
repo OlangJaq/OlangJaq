@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **olangjack@yahoo.com**
 
-- ⚡ Fun fact **I'm good with people**
+- ⚡ Fun fact **I know I'm good with people**
 
 ## 🙋‍♂️Little More About Me:
 <p align="justify">
