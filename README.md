@@ -1,6 +1,6 @@
 [![MasterHead](https://visme.co/blog/wp-content/uploads/2019/10/animated-presentation-software-header.gif)]()
 <h1 align="center">Hi there, I'm <a href="https://OlangJaq.github.io/me"> Olang!</a></h1>
-<h2 align="center">A Building Engineer || Data-Analysist || Computer Software Engineer.</h2>
+<h2 align="center"> A Building Engineer || Data-Analysist || Computer Software Engineer.</h2>
 
 <p align="center"> <img alt="Coding" width="400" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif"/> </p>
 
@@ -39,7 +39,7 @@ I'm currently focusing on becoming a good Full Satck Developer | Software Engine
 
 <p align="left">
     <a href="https://github.com/OLangJaq/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Jack Olang's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=peter-evance&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Jack Olang's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=OlangJaq&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
@@ -53,12 +53,9 @@ I'm currently focusing on becoming a good Full Satck Developer | Software Engine
 <a href="https://www.LinkedIn.com/in/jack-olang">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) </a>
 
 
-
-
 ## 🎁Support:
 <p><a href="https://www.buymeacoffee.com/OlangJaq"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="30" width="120" alt="OlangJaq" /></a></p>
 <P><a href="https://ko-fi.com/OlangJaq"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="30" margin="5" width="120" alt="OlangJaq" /></a></p><br><br></p>
-
 
 
 ## Author :black_nib:
