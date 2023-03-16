@@ -54,7 +54,7 @@ I'm currently focusing on becoming a good Full Satck Developer | Software Engine
 
 
 ## 🎁Support:
-<p><a href="https://www.buymeacoffee.com/OlangJaq"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="30" width="120" alt="OlangJaq" /></a></p>
+<p><a href="https://www.paypal.me/olangjack"> <img align="left" src="https://cdn.paypal.com/buttons/v2/default-yellow.png" height="30" width="120" alt="OlangJaq" /></a></p>
 <P><a href="https://ko-fi.com/OlangJaq"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="30" margin="5" width="120" alt="OlangJaq" /></a></p><br><br></p>
 
 
